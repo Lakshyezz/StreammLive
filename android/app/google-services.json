@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807869701180",
+    "project_id": "livestreamingapp-13ae4",
+    "storage_bucket": "livestreamingapp-13ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807869701180:android:e2eb0c70b8c1b3511b3739",
+        "android_client_info": {
+          "package_name": "com.example.twitch_yee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807869701180-sgp593r2uk9ghn51lac7v2nah026tp94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc00OB45pnOZnUZchTj8UfyTKXlfz0sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807869701180-sgp593r2uk9ghn51lac7v2nah026tp94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
